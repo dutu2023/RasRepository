@@ -4,7 +4,7 @@
         <Placemark id="3">
             <name>Point 1</name>
             <Point id="2">
-                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+                <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
