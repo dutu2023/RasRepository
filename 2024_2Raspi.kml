@@ -1,1 +1,73 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53">
+        <Placemark id="55">
+            <name>Point 1</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2024-02-20</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:03:00</value>
+                </Data>
+                <Data name="Image">
+                    <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
+                </Data>
+            </ExtendedData>
+            <Point id="54">
+                <coordinates>139.834633,38.876129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Point 2</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2024-02-20</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:12:00</value>
+                </Data>
+                <Data name="Image">
+                    <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60">
+                <coordinates>139.834633,38.876129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Point 3</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2024-02-20</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:14:00</value>
+                </Data>
+                <Data name="Image">
+                    <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
+                </Data>
+            </ExtendedData>
+            <Point id="66">
+                <coordinates>139.834633,38.876129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Point 4</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2024-02-20</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:19:00</value>
+                </Data>
+                <Data name="Image">
+                    <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
+                </Data>
+            </ExtendedData>
+            <Point id="72">
+                <coordinates>139.834633,38.876129,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
