@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27">
-        <Placemark id="29">
+    <Document id="33">
+        <Placemark id="35">
             <name>Point 1</name>
             <ExtendedData>
                 <Data name="Date">
@@ -14,11 +14,11 @@
                     <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
                 </Data>
             </ExtendedData>
-            <Point id="28">
+            <Point id="34">
                 <coordinates>139.834633,38.876129,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="35">
+        <Placemark id="41">
             <name>Point 2</name>
             <ExtendedData>
                 <Data name="Date">
@@ -31,11 +31,11 @@
                     <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
                 </Data>
             </ExtendedData>
-            <Point id="34">
+            <Point id="40">
                 <coordinates>139.834633,38.876129,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="41">
+        <Placemark id="47">
             <name>Point 3</name>
             <ExtendedData>
                 <Data name="Date">
@@ -48,11 +48,11 @@
                     <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
                 </Data>
             </ExtendedData>
-            <Point id="40">
+            <Point id="46">
                 <coordinates>139.834633,38.876129,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="47">
+        <Placemark id="53">
             <name>Point 4</name>
             <ExtendedData>
                 <Data name="Date">
@@ -65,7 +65,24 @@
                     <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
                 </Data>
             </ExtendedData>
-            <Point id="46">
+            <Point id="52">
+                <coordinates>139.834633,38.876129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Point 5</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2024-02-20</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:33:00</value>
+                </Data>
+                <Data name="Image">
+                    <value>19i4ep9931ZOnJfqaHIIBoa9MBwyKoBNw</value>
+                </Data>
+            </ExtendedData>
+            <Point id="58">
                 <coordinates>139.834633,38.876129,0.0</coordinates>
             </Point>
         </Placemark>
